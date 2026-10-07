@@ -1,13 +1,11 @@
-# Independent AM Figure 3 modeling
+# Independent AM Figure 3 illustration
 
-This is a separate manuscript illustration task, AM-FIG3-20261007-01.
+[Three text-free Blender render assets and source boundaries](panel_a_v07/MODEL_REVIEW.md)
 
-## Latest discussion preview: native Blender Figure 3a
+![Impact section](panel_a_v07/01_impact_section_v07_preview_white.png)
+![SSG response](panel_a_v07/02_SSG_response_contrast_v07_preview_white.png)
+![Pillar interaction](panel_a_v07/03_pillar_interaction_v07_preview_white.png)
 
-![Figure 3a](panel_a_v06/Figure3a_native_blender_v06_white.png)
+Transparent PNGs are linked on the review page. The editable native Blender model is delivered locally. Only browser-readable figures and Markdown are published here. All mechanical cues are qualitative illustrations.
 
-[Native model render and source audit](panel_a_v06/MODEL_REVIEW.md)
-
-The illustration uses a circular diameter cutaway and two 3D detail views. Its mechanisms follow the original manuscript, while the deformation is qualitative. The editable native model was delivered directly to the human user. Only browser-viewable PNGs and Markdown are published here.
-
-Previous previews are retained in [v04](v04/MODEL_REVIEW.md) and [panel a v05](panel_a_v05/MODEL_REVIEW.md).
+[Previous v06 preview](panel_a_v06/MODEL_REVIEW.md)
