@@ -1,13 +1,13 @@
-# AM Figure 3 建模审查
+# Independent AM Figure 3 modeling
 
-独立的 AM 论文科学示意图任务。当前阶段为 Figure 3a,b 的形态建模与独立视图渲染，原文中的冲击试样不含电路。网页可直接查看三个 PNG 和来源核对说明。
+This is a separate manuscript illustration task, AM-FIG3-20261007-01.
 
-![形态视图](v04/Specimen_morphology_white.png)
+## Latest discussion preview: native Blender Figure 3a
 
-- [首版完整审查说明](v04/MODEL_REVIEW.md)
-- [冲击剖面](v04/Impact_section_white.png)
-- [装置视图](v04/Impact_setup_white.png)
+![Figure 3a](panel_a_v06/Figure3a_native_blender_v06_white.png)
 
-Figure 1 只作为封装形态参考。新模型采用原文给定的外径和层厚，并按原文把力传感器放在冲击头后侧。微柱排列和外部装置几何为示意，不是新的实验或有限元结果。当前不处理整个 Figure 3 的排布。
+[Native model render and source audit](panel_a_v06/MODEL_REVIEW.md)
 
-原论文、PPTX、BLEND 和视频不在本仓库公开。
+The illustration uses a circular diameter cutaway and two 3D detail views. Its mechanisms follow the original manuscript, while the deformation is qualitative. The editable native model was delivered directly to the human user. Only browser-viewable PNGs and Markdown are published here.
+
+Previous previews are retained in [v04](v04/MODEL_REVIEW.md) and [panel a v05](panel_a_v05/MODEL_REVIEW.md).
