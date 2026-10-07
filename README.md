@@ -1,7 +1,7 @@
 # Independent AM Figure 3 illustration
 
-[Latest: turbid translucent SSG gel](panel_a_v15/MODEL_REVIEW.md)
+[Latest: shared section exposes the pillar faces](panel_a_v16/MODEL_REVIEW.md)
 
-![Cloudy SSG close-up](panel_a_v15/03_pillar_context_v15_preview_white.png)
+![Common SSG and pillar section](panel_a_v16/03_pillar_context_v16_preview_white.png)
 
-Material-only update: softer cloudy SSG with lower transmission. Continuous filling and the no-arrow local view are retained. Only browser-readable PNGs and Markdown are published.
+The common section cuts through both pillars and SSG so solid faces are directly exposed. The cloudy gel remains around and behind the pillars. Only browser-readable PNGs and Markdown are published.
