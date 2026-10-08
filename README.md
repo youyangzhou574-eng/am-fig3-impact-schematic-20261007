@@ -1,7 +1,7 @@
 # Independent AM Figure 3 illustration
 
-[Latest: cool palette and three-dimensional pillar close-up](panel_a_v20/MODEL_REVIEW.md)
+[Latest: frontal section with slight downward view](panel_a_v21/MODEL_REVIEW.md)
 
-![Three-dimensional SSG-pillar close-up](panel_a_v20/03_pillar_context_v20_preview_white.png)
+![Frontal SSG-pillar close-up](panel_a_v21/03_pillar_context_v21_preview_white.png)
 
-Native Blender illustration with cool coordinated colors, milky SSG, gently bowed silicone pillars, shallow arc-wave cues, directional light and a complete translucent top cover. Source enclosure geometry is retained. The waves are qualitative illustration cues, not a computed flow field. Only browser-readable PNGs and Markdown are published.
+Native Blender illustration with a frontal camera, cool coordinated colors, milky SSG, gently bowed silicone pillars, shallow arc-wave cues and a complete translucent top cover. Geometry, materials and lighting are retained. No text or arrows appear in the close-up. Only browser-readable PNGs and Markdown are published.
