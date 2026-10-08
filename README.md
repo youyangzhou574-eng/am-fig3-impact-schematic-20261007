@@ -1,7 +1,7 @@
 # Independent AM Figure 3 illustration
 
-[Latest: shared section exposes the pillar faces](panel_a_v16/MODEL_REVIEW.md)
+[Latest: cool palette and three-dimensional pillar close-up](panel_a_v20/MODEL_REVIEW.md)
 
-![Common SSG and pillar section](panel_a_v16/03_pillar_context_v16_preview_white.png)
+![Three-dimensional SSG-pillar close-up](panel_a_v20/03_pillar_context_v20_preview_white.png)
 
-The common section cuts through both pillars and SSG so solid faces are directly exposed. The cloudy gel remains around and behind the pillars. Only browser-readable PNGs and Markdown are published.
+Native Blender illustration with cool coordinated colors, milky SSG, gently bowed silicone pillars, shallow arc-wave cues, directional light and a complete translucent top cover. Source enclosure geometry is retained. The waves are qualitative illustration cues, not a computed flow field. Only browser-readable PNGs and Markdown are published.
