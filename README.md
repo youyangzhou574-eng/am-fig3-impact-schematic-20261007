@@ -1,9 +1,7 @@
 # Independent AM Figure 3 illustration
 
-[Latest: frontal whole section and separate matching orange impact trail](panel_a_v30/MODEL_REVIEW.md)
+[Latest: shorter, gently streamlined orange impact trail](panel_a_v31/MODEL_REVIEW.md)
 
-![Frontal section](panel_a_v30/01_impact_section_v30_preview_white.png)
+![Matching preview](panel_a_v31/05_impact_alignment_v31_preview_white.png)
 
-![Impact matching preview](panel_a_v30/05_impact_alignment_v30_preview_white.png)
-
-The specimen section faces the observer. The orange square motion trail is separately delivered with a precisely registered transparent PNG pair. Closed SSG geometry and enclosed filling are checked. The lower two views are retained. These are qualitative native Blender illustration assets, not simulation results.
+Four independent native Blender assets. The orange cue is shorter and has curved soft edges; the three specimen views and their SSG filling audit are retained. A registered transparent PNG pair supports direct overlay. Qualitative illustration only; no physical simulation.
