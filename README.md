@@ -1,7 +1,7 @@
 # Independent AM Figure 3 illustration
 
-[Latest: less transparent cover and clearer shallow waves](panel_a_v27/MODEL_REVIEW.md)
+[Latest: partial central SSG stiffening with a soft boundary](panel_a_v28/MODEL_REVIEW.md)
 
-![Less transparent cover and clearer shallow waves](panel_a_v27/03_pillar_context_v27_preview_white.png)
+![Central SSG response](panel_a_v28/02_SSG_response_contrast_v28_preview_white.png)
 
-The accepted blue/cyan palette is retained. The complete silicone top cover is less transparent, and the same native curved wave relief is more visible. These are qualitative illustration assets. Only browser-readable PNGs and Markdown are published.
+One continuous pressed SSG section shows a denser, smoother central mechanical response and still-fluid shoulders with shallow native wave relief. The transition is gradual and uses the accepted cyan material family. The accepted V27 pillar view and impact section are preserved exactly. This is a qualitative Blender illustration; only browser-readable PNGs and Markdown are published.
