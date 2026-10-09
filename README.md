@@ -1,9 +1,9 @@
 # Independent AM Figure 3 illustration
 
-[Latest: simplified impact experiment with downward-motion cues](panel_b_v03/MODEL_REVIEW.md)
+[Latest: blue comet-style downward-motion effect](panel_b_v05/MODEL_REVIEW.md)
 
-![Downward impact schematic](panel_b_v03/01_downward_impact_experiment_v03_preview_white.png)
+![Blue comet impact schematic](panel_b_v05/01_blue_comet_impact_experiment_v05_preview_white.png)
 
-A sharp current impactor with progressively fainter earlier-position echoes above indicates downward movement. The native apparatus and panel-a material style are retained. Static illustration only; no physical simulation.
+Continuous blue flowing wake, sharp current impactor, retained panel-a device materials and a neutral-gray frame distinct from the deep blue-gray force sensor. Static illustration only; no physical simulation.
 
-[Retained panel a section](panel_a_v37/MODEL_REVIEW.md) · [Apparatus without motion cues](panel_b_v02/MODEL_REVIEW.md)
+[Retained panel a](panel_a_v37/MODEL_REVIEW.md) · [Apparatus without motion cues](panel_b_v02/MODEL_REVIEW.md)
