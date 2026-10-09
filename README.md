@@ -1,7 +1,9 @@
 # Independent AM Figure 3 illustration
 
-[Latest: three pillars on each side, section without an impact graphic](panel_a_v37/MODEL_REVIEW.md)
+[Latest: first native model of the drop-weight apparatus](panel_b_v01/MODEL_REVIEW.md)
 
-![Section without impact graphic](panel_a_v37/01_section_without_impact_v37_preview_white.png)
+![Apparatus model](panel_b_v01/01_drop_weight_apparatus_v01_preview_white.png)
 
-The innermost cut pillar pair is removed and its cavities refilled with SSG. Existing palette and frontal camera retained. Native qualitative Blender illustration only; no physical simulation.
+The original photograph guides the paired-post frame and suspended head. The manuscript governs the rear force sensor, 370 g mass parameter, 10/20/30 cm release settings and circuit-free 74 x 6 mm specimen. Native qualitative Blender illustration only; no physical simulation.
+
+[Retained left-hand section without impact graphic](panel_a_v37/MODEL_REVIEW.md)
