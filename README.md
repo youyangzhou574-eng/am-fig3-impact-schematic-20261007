@@ -1,7 +1,7 @@
 # Independent AM Figure 3 illustration
 
-[Latest: partial central SSG stiffening with a soft boundary](panel_a_v28/MODEL_REVIEW.md)
+[Latest: correct outward wavefront directions](panel_a_v29/MODEL_REVIEW.md)
 
-![Central SSG response](panel_a_v28/02_SSG_response_contrast_v28_preview_white.png)
+![Outward wavefronts](panel_a_v29/02_SSG_response_contrast_v29_preview_white.png)
 
-One continuous pressed SSG section shows a denser, smoother central mechanical response and still-fluid shoulders with shallow native wave relief. The transition is gradual and uses the accepted cyan material family. The accepted V27 pillar view and impact section are preserved exactly. This is a qualitative Blender illustration; only browser-readable PNGs and Markdown are published.
+The two liquid-like shoulders now have mirrored shallow arc-shaped wavefronts facing outward from the pressed centre. The dense planar central response, soft boundary and all current materials are retained. These are qualitative native Blender illustration assets. Only browser-readable PNGs and Markdown are published.
