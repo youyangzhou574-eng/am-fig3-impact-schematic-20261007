@@ -1,9 +1,9 @@
 # Independent AM Figure 3 illustration
 
-[Latest: simplified impact experiment matching panel a](panel_b_v02/MODEL_REVIEW.md)
+[Latest: simplified impact experiment with downward-motion cues](panel_b_v03/MODEL_REVIEW.md)
 
-![Simplified impact experiment](panel_b_v02/01_simple_impact_experiment_v02_preview_white.png)
+![Downward impact schematic](panel_b_v03/01_downward_impact_experiment_v03_preview_white.png)
 
-The computer and realistic frame details are removed. Native shaders, white studio and frontal view match the accepted panel a. The head is drawn near the sample as a schematic impact experiment. No physical simulation.
+A sharp current impactor with progressively fainter earlier-position echoes above indicates downward movement. The native apparatus and panel-a material style are retained. Static illustration only; no physical simulation.
 
-[Retained panel a section without impact graphic](panel_a_v37/MODEL_REVIEW.md)
+[Retained panel a section](panel_a_v37/MODEL_REVIEW.md) · [Apparatus without motion cues](panel_b_v02/MODEL_REVIEW.md)
