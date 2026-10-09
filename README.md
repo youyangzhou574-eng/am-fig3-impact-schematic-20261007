@@ -1,9 +1,9 @@
 # Independent AM Figure 3 illustration
 
-[Latest: first native model of the drop-weight apparatus](panel_b_v01/MODEL_REVIEW.md)
+[Latest: simplified impact experiment matching panel a](panel_b_v02/MODEL_REVIEW.md)
 
-![Apparatus model](panel_b_v01/01_drop_weight_apparatus_v01_preview_white.png)
+![Simplified impact experiment](panel_b_v02/01_simple_impact_experiment_v02_preview_white.png)
 
-The original photograph guides the paired-post frame and suspended head. The manuscript governs the rear force sensor, 370 g mass parameter, 10/20/30 cm release settings and circuit-free 74 x 6 mm specimen. Native qualitative Blender illustration only; no physical simulation.
+The computer and realistic frame details are removed. Native shaders, white studio and frontal view match the accepted panel a. The head is drawn near the sample as a schematic impact experiment. No physical simulation.
 
-[Retained left-hand section without impact graphic](panel_a_v37/MODEL_REVIEW.md)
+[Retained panel a section without impact graphic](panel_a_v37/MODEL_REVIEW.md)
