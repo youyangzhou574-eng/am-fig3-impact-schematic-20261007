@@ -1,9 +1,11 @@
-# Independent AM Figure 3 illustration
+# Independent AM manuscript illustration
 
-[Latest: blue comet-style downward-motion effect](panel_b_v05/MODEL_REVIEW.md)
+[Latest draft: Figure 2 serpentine cavity with three fillings](figure2_v01/MODEL_REVIEW.md)
 
-![Blue comet impact schematic](panel_b_v05/01_blue_comet_impact_experiment_v05_preview_white.png)
+Solid PDMS, SSG and silicone oil use the same undeformed PI-Cu serpentine and complete silicone cavity. Native layer thicknesses follow the manuscript. Display transparency makes the embedded conductor visible. Human visual review is pending; no physical simulation.
 
-Continuous blue flowing wake, sharp current impactor, retained panel-a device materials and a neutral-gray frame distinct from the deep blue-gray force sensor. Static illustration only; no physical simulation.
+![Solid PDMS](figure2_v01/01_solid_PDMS_v01_preview_white.png)
+![SSG](figure2_v01/01_SSG_v01_preview_white.png)
+![Silicone oil](figure2_v01/01_silicone_oil_v01_preview_white.png)
 
-[Retained panel a](panel_a_v37/MODEL_REVIEW.md) · [Apparatus without motion cues](panel_b_v02/MODEL_REVIEW.md)
+[Retained Figure 3a](panel_a_v37/MODEL_REVIEW.md) · [Retained blue comet impact apparatus](panel_b_v05/MODEL_REVIEW.md)
